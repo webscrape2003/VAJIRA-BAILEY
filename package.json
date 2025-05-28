@@ -1,5 +1,5 @@
 {
-  "name": "baileys-mod",
+  "name": "LAKIYA-MD",
   "version": "6.8.3",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "MR-LAKIYA",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
